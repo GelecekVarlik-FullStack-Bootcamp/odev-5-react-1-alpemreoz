@@ -1,15 +1,15 @@
-# Week - NULL
-```Hafta veya Ödev Sayısı (NULL değiştir)```
-
-# Homework 
-```Ödev```
+# Week - 5
 
 
-## Homework Description
-
-```Ödev Açıklaması ```
+# Reduce 
 
 
-## Author
 
-```Ödevi yapan```
+## Grouping data using reduce method
+
+
+
+
+## Alp Emre Öztürk
+
+
